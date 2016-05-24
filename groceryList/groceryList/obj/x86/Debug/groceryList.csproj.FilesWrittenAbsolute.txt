@@ -1,0 +1,5 @@
+/Users/LucasAlencar/Documents/@ Full Sail University/Month 12 May 2016/Project & Portfolio 3/Week 4/Assignment 02/groceryList/groceryList/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/LucasAlencar/Documents/@ Full Sail University/Month 12 May 2016/Project & Portfolio 3/Week 4/Assignment 02/groceryList/groceryList/bin/Debug/groceryList.exe.mdb
+/Users/LucasAlencar/Documents/@ Full Sail University/Month 12 May 2016/Project & Portfolio 3/Week 4/Assignment 02/groceryList/groceryList/bin/Debug/groceryList.exe
+/Users/LucasAlencar/Documents/@ Full Sail University/Month 12 May 2016/Project & Portfolio 3/Week 4/Assignment 02/groceryList/groceryList/obj/x86/Debug/groceryList.exe
+/Users/LucasAlencar/Documents/@ Full Sail University/Month 12 May 2016/Project & Portfolio 3/Week 4/Assignment 02/groceryList/groceryList/obj/x86/Debug/groceryList.exe.mdb
